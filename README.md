@@ -13,9 +13,9 @@ The Java service is a spring boot application running on port 8080
 The MongoDB will be running on port 27017
 Spring project is build using gradle.All the necessary dependencies are defined in build.gradle
 ## steps to run
--First download both the folders product-service and Saas product backend
--Setup the MongoDB compass in your local machine with mongodb://localhost:27017 and table digital-products and collection name products
--Run the product-service which is a springBoot application and run the Node.js Saas product backend
+-First download both the folders product-service and Saas product backend \
+-Setup the MongoDB compass in your local machine with mongodb://localhost:27017 and table digital-products and collection name products \
+-Run the product-service which is a springBoot application and run the Node.js Saas product backend \
 -once both the applications are connected to the MongoDB , you can use Thunder Client extension of the VS code to run the API's
 
 
